@@ -1,0 +1,11 @@
+bin/
+*.exe
+*.out
+
+debian/
+usr/
+
+*.swp
+*.DS_Store
+.idea/
+.vscode/
